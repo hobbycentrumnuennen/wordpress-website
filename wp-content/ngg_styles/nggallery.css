@@ -1,0 +1,33 @@
+/*
+CSS Name: Default Styles
+Description: NextGEN Default Gallery Stylesheet
+Author: Photocrati Media
+Version: 2.12
+
+This stylesheet is provided to allow users the ability of overriding the default styles for all display types
+*/
+
+
+.ngg-album-compact {
+    padding: 0 12px 40px 0 !important;
+}
+.ngg-album-compactbox {
+background: white;}
+.ngg-album-compact h4 {
+    font-size: 15px;
+    font-weight: bold;
+    margin: 0;
+    margin-top: 10px;
+}
+
+.ngg-album-gallery-image-counter {
+font-size: 16px!important;
+}
+
+.ngg-album-desc {
+height:auto!important;
+}
+img.Thumb {
+width:240px;
+height:179px;
+}

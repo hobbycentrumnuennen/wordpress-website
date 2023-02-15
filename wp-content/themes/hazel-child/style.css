@@ -1,0 +1,10 @@
+/*
+Theme Name: Hazel Child
+Theme URI: http://demo.select-themes.com/hazel/
+Description: A child theme of Hazel Theme
+Author: Select Themes
+Author URI: http://select-themes.com
+Version: 1.0.0
+Template: hazel
+*/
+@import url("../hazel/style.css");
